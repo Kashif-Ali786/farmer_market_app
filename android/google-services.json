@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "101852153578",
+    "firebase_url": "https://formersmarket-86845.firebaseio.com",
+    "project_id": "formersmarket-86845",
+    "storage_bucket": "formersmarket-86845.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101852153578:android:c53862e4f9dc0b7e803993",
+        "android_client_info": {
+          "package_name": "com.kashi.farmers_market_mobile_order"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101852153578-u53j4gfn21t47d44nh4h7t39lvfr099v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQlkD3tVO_pWbkozA8xoHeuUxu1Hs5O4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101852153578-u53j4gfn21t47d44nh4h7t39lvfr099v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
